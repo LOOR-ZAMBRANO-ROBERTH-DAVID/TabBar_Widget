@@ -44,13 +44,13 @@ class MyStatelessWidget extends StatelessWidget {
         body: const TabBarView(
           children: <Widget>[
             Center(
-              child: Text("It's cloudy here"),
+              child: Text("Pantalla 1"),
             ),
             Center(
-              child: Text("It's rainy here"),
+              child: Text("Pantalla 2"),
             ),
             Center(
-              child: Text("It's sunny here"),
+              child: Text("Pantalla 3"),
             ),
           ],
         ),
